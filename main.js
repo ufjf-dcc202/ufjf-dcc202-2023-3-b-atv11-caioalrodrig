@@ -1,4 +1,4 @@
-import { getLista, adicionaNaLista, removeDaLista, limpaLista } from '../lista.js'
+import { getLista, adicionaNaLista, removeDaLista, limpaLista } from 'lista.js'
 
 const pEntrada = document.querySelector('#entrada')
 const btnAdicionar = document.querySelector('#adicionar')
